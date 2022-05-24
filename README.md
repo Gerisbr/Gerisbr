@@ -14,6 +14,8 @@
 <img align="center" alt="htmls" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 ![Snake animation] (https://github.com/Gerisbr/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+ </p>
 
 Apaixondo por tecnologia, educação e por pode ajuda as pesssoas pelo conhecimento adquirido.
 
