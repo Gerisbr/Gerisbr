@@ -15,6 +15,10 @@
 </div>
 
  </p>
+ 
+<div>
+![Snake animation](https://github.com/raballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 Apaixondo por tecnologia, educação e por pode ajuda as pesssoas pelo conhecimento adquirido.
 
